@@ -1,0 +1,19 @@
+---
+layout: book
+title: The Four.<br /> The hidden DNA of Amazon, Apple, Facebook and Google
+date: 2019-08-12 00:00:00
+description: Description goes here ( if you want to ) # Add post description (optional)
+img: books/thefour.jpg # Add image post (optional)
+tags: [recommended reads, books, business] # add tag
+---
+
+<table>
+<tr>
+<td>
+<a target="_blank"  href="https://www.amazon.co.uk/gp/product/0552173436/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0552173436&linkCode=as2&tag=keithsterling.com-21&linkId=95248b100407458210e804d7c550470f"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=0552173436&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=keithsterling.com-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=keithsterling.com-21&l=am2&o=2&a=0552173436" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</td>
+<td valign="top">
+This is a good (not a great book) about the rise of the big 4 tech companies, Amazon, Google, Facebook and Apple.
+</td>
+</tr>
+</table>
