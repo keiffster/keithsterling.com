@@ -10,4 +10,4 @@ tags: [Blogging, Wordpress, Jekyll]
 
 So its farewell to Wordpress, 
 
-The site is moving to Jekyll
+The site is moving to Jekyll.
